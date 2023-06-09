@@ -4,9 +4,9 @@ import json
 
 # cria a conexão
 mydb = mysql.connector.connect(
-  host="ec2-44-197-182-142.compute-1.amazonaws.com",
-  user="dev",
-  password="xW7Gpa8uFS?64YG^",
+  host="",
+  user="",
+  password="",
   database="site"
 )
 
